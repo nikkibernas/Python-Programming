@@ -1,0 +1,6 @@
+open up a terminal 
+
+access a folder and run a file:
+cd  (tab)
+*select folder*
+python3 (tab to the file)
